@@ -47,3 +47,4 @@ gcloud compute --project "kejyun-research" ssh --zone asia-east1-b kejyun-dev
 
 ## 參考資料
 * [機器類型  |  Compute Engine Documentation  |  Google Cloud](https://cloud.google.com/compute/docs/machine-types)
+* [Google Compute Engine 定價  |  Compute Engine Documentation  |  Google Cloud](https://cloud.google.com/compute/pricing)
