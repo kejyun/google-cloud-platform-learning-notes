@@ -7,7 +7,7 @@ GCP 的 `API 服務憑證` 就像是 AWS 的 `IAM`，設定好權限就可以使
 
 ### ***A. 建立憑證（Credentials）***
 
-在 `API 服務` 頁面的 `憑證` 頁簽點選 `建立憑證` 按鈕，選擇建立 `服務帳戶金鑰` 即可開始憑證
+在 `API 服務` 頁面的 `憑證` 頁簽點選 `建立憑證` 按鈕，選擇建立 `服務帳戶金鑰` 即可開始建立憑證
 
 ![建立憑證（Credentials）](./images/google-apis-services-create-service-account-key.png)
 

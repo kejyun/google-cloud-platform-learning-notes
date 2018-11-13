@@ -13,6 +13,7 @@
 * [Google Cloud SQL](google-cloud-sql/google-cloud-sql-README.md)
     * [MySQL](google-cloud-sql/mysql/google-cloud-sql-mysql-README.md)
         * [帳號權限](google-cloud-sql/mysql/google-cloud-sql-mysql-account-privilege.md)
+* [Google Cloud MemoryStore](google-cloud-memory-store/google-cloud-memory-store-README.md)
 * [API 服務](apis-services/apis-services-README.md)
 * [資源](resource/resource-README.md)
 * [參考資料](reference/reference-README.md)
