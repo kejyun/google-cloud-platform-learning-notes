@@ -1,12 +1,6 @@
 # Google Cloud SQL
 
 
-## 建立 Cloud SQL
-
-
-
-
-
 
 
 ## 參考資料
