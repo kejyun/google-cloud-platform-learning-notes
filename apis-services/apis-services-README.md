@@ -3,7 +3,6 @@
 
 ## 1. API 服務憑證
 
-GCP 的 `API 服務憑證` 就像是 AWS 的 `IAM`，設定好權限就可以使用 API 存取 GCP 服務了
 
 ### ***A. 建立憑證（Credentials）***
 

@@ -23,3 +23,7 @@
 預約完成後就可以看到預約的 IP 位址資訊了
 
 ![預約外部 IP 位址完成](./images/google-vpc-network-external-ip-address-reserve-a-static-ip-address-create-finish.png)
+
+
+## 參考資料
+* [Google Cloud Load balancer & Autoscaling in ACTION!! (Udemy link below with discount code!) - YouTube](https://www.youtube.com/watch?v=Gn7pGQYkKnA)
