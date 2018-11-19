@@ -8,6 +8,7 @@
     * [自動配置（Auto Scaling）](google-compute-engine/auto-scaling/auto-scaling-README.md)
         * [故障排除測試](google-compute-engine/auto-scaling/auto-scaling-troubleshooting.md)
     * [負載平衡（Load Balancer）](google-compute-engine/load-balancer/load-balancer-README.md)
+        * [http 301 轉址至 https](google-compute-engine/load-balancer/load-balancer-http-301-to-https.md)
     * [先佔 VM 實例（Preemptible VM Instances）](google-compute-engine/preemptible-vm-instances/preemptible-vm-instances-README.md)
 * [Google Cloud Storage](google-cloud-storage/google-cloud-storage-README.md)
 * [Google Cloud SQL](google-cloud-sql/google-cloud-sql-README.md)
