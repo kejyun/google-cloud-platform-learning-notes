@@ -7,6 +7,7 @@
     * [映像檔（Images）](google-compute-engine/vm-images/vm-images-README.md)
     * [自動配置（Auto Scaling）](google-compute-engine/auto-scaling/auto-scaling-README.md)
         * [故障排除測試](google-compute-engine/auto-scaling/auto-scaling-troubleshooting.md)
+        * [輪動式更新（Rolling Update）](google-compute-engine/auto-scaling/auto-scaling-rolling-update.md)
     * [負載平衡（Load Balancer）](google-compute-engine/load-balancer/load-balancer-README.md)
         * [http 301 轉址至 https](google-compute-engine/load-balancer/load-balancer-http-301-to-https.md)
     * [先佔 VM 實例（Preemptible VM Instances）](google-compute-engine/preemptible-vm-instances/preemptible-vm-instances-README.md)
