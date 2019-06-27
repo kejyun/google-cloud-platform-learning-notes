@@ -13,6 +13,7 @@
     * [先佔 VM 實例（Preemptible VM Instances）](google-compute-engine/preemptible-vm-instances/preemptible-vm-instances-README.md)
 * [Google Cloud Storage](google-cloud-storage/google-cloud-storage-README.md)
     * [Google Cloud Storage](google-cloud-storage/google-cloud-storage-custom-domain.md)
+    * [複製本地端檔案到 GCS](google-cloud-storage/google-cloud-storage-copy-local-file.md)
 * [Google Cloud SQL](google-cloud-sql/google-cloud-sql-README.md)
     * [MySQL](google-cloud-sql/mysql/google-cloud-sql-mysql-README.md)
         * [帳號權限](google-cloud-sql/mysql/google-cloud-sql-mysql-account-privilege.md)

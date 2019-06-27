@@ -49,7 +49,7 @@ $ sudo apt-get install htop
 因為 "[create cpu load in python](https://gist.github.com/tott/3895832)" 會將所有 CPU 資源吃滿，可以用 `cpulimit` 來控制程序的 CPU 執行上限
 
 ```shell
-sudo apt-get cpulimit
+sudo apt-get install cpulimit
 ```
 
 

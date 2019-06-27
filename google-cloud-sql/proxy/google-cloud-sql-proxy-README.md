@@ -197,8 +197,17 @@ bash /home/ubuntu/scripts/boot.sh
 這樣在 ***主機重新開機*** 或 ***Auto Scaling 開啟新機器*** 時，就可以自動開啟 `Cloud SQL Proxy` 了
 
 
+## 自訂 Cloud SQL Proxy 本地端 port
+
+```
+./cloud_sql_proxy -instances=myProject:us-central1:myInstance=tcp:3306,myProject:us-central1:myInstance2=tcp:3307 &
+mysql -u myUser --host 127.0.0.1  --port 3307
+```
+
+
 ## 參考資料
 * [Connecting to Google Cloud SQL with the Cloud SQL Proxy - YouTube](https://www.youtube.com/watch?v=25XIGXbw_GY)
 * [使用 Cloud SQL Proxy 連結 mysql 用戶端  |  MySQL 適用的 Cloud SQL  |  Google Cloud](https://cloud.google.com/sql/docs/mysql/connect-admin-proxy)
 * [從外部應用程式連線至 Cloud SQL  |  MySQL 適用的 Cloud SQL  |  Google Cloud](https://cloud.google.com/sql/docs/mysql/connect-external-app)
 * [startup - How to run scripts on start up? - Ask Ubuntu](https://askubuntu.com/questions/814/how-to-run-scripts-on-start-up)
+* [About the Cloud SQL Proxy  |  Cloud SQL for MySQL  |  Google Cloud](https://cloud.google.com/sql/docs/mysql/sql-proxy)
